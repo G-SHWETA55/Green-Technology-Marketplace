@@ -55,4 +55,4 @@ Run `schema.sql` to initialize.
 
 ## 📂 Project Structure
 
-src/com/guvi/marketplace/ <br/>  ├─ model/ # User, Product, Order, Review <br/> ├─ dao/ # JDBC DAOs <br/> ├─ service/ # Business logic <br/> ├─ servlet/ # Controllers <br/> └─ util/ # Validation, helpers web/      ├─ jsp/ # JSP dashboards      └─ WEB-INF/web.xml resources/      └─ schema.sql
+src/com/guvi/marketplace/ <br/>  ├─ model/ # User, Product, Order, Review <br/> ├─ dao/ # JDBC DAOs <br/> ├─ service/ # Business logic <br/> ├─ servlet/ # Controllers <br/> └─ util/ # Validation, helpers <br/> web/ <br/> ├─ jsp/ # JSP dashboards <br/> └─ WEB-INF/web.xml <br/> resources/ <br/> └─ schema.sql
