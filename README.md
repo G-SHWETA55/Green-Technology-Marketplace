@@ -71,7 +71,7 @@ Prerequisites: JDK 11+, Apache Tomcat (or any servlet container), MySQL, and the
    - By default the app's DB config is in scr/com/guvi/marketplace/config/AppConfig.java:
      JDBC URL: jdbc:mysql://localhost:3306/greentech
      user: root
-     password: 13579@
+     password: ****** (ENTER YOUR PASSWORD)
    - Either create the database greentech, or update AppConfig to the database name you prefer.
    - Import the schema:
      mysql -u root -p greentech < schema.sql
